@@ -8,6 +8,10 @@ a specific person.
 
 "Though this tool isnt as strong as the original lin8x tool, we will keep trying to update it so that it becomes more efficient and powerfull as a mini linux tool on your own phone." - AnonymousContent
 
+“It may be small now, but just you wait and see!”, 
+“When you’re on the go and need to mess with someone, trust Term8x!”, 
+“Portable, scalable, dastardly: Term8x!” - Dev7
+
 Feel free to join our discord at:
 https://discord.gg/H3jUDUK
 
