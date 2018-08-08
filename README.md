@@ -2,6 +2,8 @@
 Our Lin8x tool now for the Android!.
 
 ----------------------------------------------------------------------------------------------
+![Logo](logo.jpeg?raw=true "Logo")
+----------------------------------------------------------------------------------------------
 
 This tool was designed with the intent of making a simple and easy tool, that would be perfect for if you wanted to target
 a specific person.
