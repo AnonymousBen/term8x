@@ -18,6 +18,7 @@ Feel free to join our discord at:
 https://discord.gg/H3jUDUK
 
 ----------------------------------------------------------------------------------------------
+# Updates
 
 --- The Newest Version will always be called "term8x" in the files! ---
 
@@ -25,6 +26,13 @@ V.1 - term8x made: First Version!
 - Full Setup complete
 
 ----------------------------------------------------------------------------------------------
+# Screenshot of Tool
+
+![Logo](screenshot.png?raw=true "Logo")
+
+----------------------------------------------------------------------------------------------
+# How to Setup
+
 How to setup the termux terminal:
 
 1. Type "apt-get update"
@@ -38,6 +46,7 @@ How to setup the termux terminal:
 5. Type "python -V" (Just to make sure you have a version of Python 3)
 
 ----------------------------------------------------------------------------------------------
+# How to Install
 
 How to install: (Through File)
 
